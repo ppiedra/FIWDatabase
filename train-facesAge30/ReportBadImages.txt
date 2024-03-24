@@ -1,1 +1,1 @@
-Cant process FIWDatabase/train-facesAge30/F0611/MID4/P06430_face0.jpg
+Cant process FIWDatabase/train-facesAge30/F0613/MID3/P06438_face2.jpg
